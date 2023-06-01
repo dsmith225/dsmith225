@@ -14,11 +14,11 @@
 </br>
 </br>
 <div align="center" dir="auto" <img style="max-width: 100%;">
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellebessa&theme=react&layout=compact" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmith225&theme=react&layout=compact" />
 &nbsp;
 &nbsp;
 &nbsp;
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=michellebessa&show_icons=true&theme=react" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dsmith225&show_icons=true&theme=react" />
 </div>
  ## <div align="center">Main skills:<div>
   
