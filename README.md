@@ -1,15 +1,15 @@
 ### Hi there 👋
-<div align="center">I'm Michelle, a Software Developer passionate Technology and Computer Science</div>
-<div align="center">I'm from Sao Paulo/Brazil :brazil: currently living in  Miami Beach/USA :us:</div>
+<div align="center">I'm Doug, a Software Engineer that loves technology and computer science</div>
+<div align="center">I'm from Atlanta :us:</div>
 
 </br>
 
-<div align="center">:desktop_computer:  I have knowledge of Javascript, React, Python and Flask</div>
-<div align="center">:desktop_computer:  I have knowledge of Javascript, React Js, React Native, Python and Flask</div>
-<div align="center">:keyboard:  I'm currently taking a Python course focused on Data Visualization</div>
-<div align="center">:computer_mouse:  Just finished coding an Authentication System using Flask and React</div>
-<div align="center">:dart: 2023 goals: Grow my knowledge in backend development</div>
-<div align="center">:sparkles: Fun fact:  I snowboard and play guitar</div>
+<div align="center">:desktop_computer:  I have knowledge of Javascript, React JS, Python and Flask</div>
+<div align="center">:desktop_computer:  I have knowledge of Javascript, React JS, Python and Flask</div>
+<div align="center">:keyboard:  I'm currently taking a React JS course to sharpen my skills</div>
+<div align="center">:computer_mouse:  Just finished coding a React based project</div>
+<div align="center">:dart: 2023 goals: Grow my knowledge in frontend development</div>
+<div align="center">:sparkles: Fun fact:  I skateboard</div>
 </br>
 </br>
 </br>
