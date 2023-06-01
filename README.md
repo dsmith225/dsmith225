@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 <div align="center">I'm Michelle, a Software Developer passionate Technology and Computer Science</div>
 <div align="center">I'm from Sao Paulo/Brazil :brazil: currently living in  Miami Beach/USA :us:</div>
 
