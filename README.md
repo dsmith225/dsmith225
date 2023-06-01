@@ -32,12 +32,10 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
   
- </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michellebessa&bg_color=030303&color=76eadc&line=25a2a0&point=b1a9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</br>
+ </div></br>
 <div align="center">
-  <a href = "mailto:michellebessa12@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michelle-bessa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href = "mail:douglaseugenesmithjr@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglas-smith0604/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 </br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
